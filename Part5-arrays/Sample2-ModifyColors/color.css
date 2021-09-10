@@ -1,0 +1,22 @@
+.container {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.btn {
+  padding: 30px;
+  background-color: bisque;
+  border-radius: 15px;
+}
+
+.btn:hover {
+  background-color: burlywood;
+}
+
+h1 {
+  background-color: white;
+}

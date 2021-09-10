@@ -1,0 +1,20 @@
+.btn {
+  width: 150px;
+  height: 40px;
+}
+
+.input-div {
+  margin-top: 30px;
+}
+
+.textbox,
+.language {
+  width: 300px;
+  height: 40px;
+}
+
+.new-h1 {
+  margin-top: 20px;
+  color: red;
+  text-align: center;
+}
